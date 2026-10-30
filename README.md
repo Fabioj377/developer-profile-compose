@@ -108,5 +108,5 @@ Elles permettent de vérifier que le même composable peut fonctionner avec des 
 Ajouter ici la capture d'écran montrant les previews et/ou l'application exécutée sur l'émulateur.
 
 ```markdown
-![Aperçu de l'application](screenshots/profile-preview.png)
+![Aperçu de l'application](screenshots/capture.png)
 ```
